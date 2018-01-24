@@ -1,0 +1,2 @@
+# utl_finding_the_second_largest_index_if_the_data_contains_two_identical_max_values
+Finding the second largest index if the data contains two identical max values.  Keywords: sas sql join merge big data analytics macros oracle teradata mysql sas communities stackoverflow statistics artificial inteligence AI Python R Java Javascript WPS Matlab SPSS Scala Perl C C# Excel MS Access JSON graphics maps NLP natural language processing machine learning igraph DOSUBL DOW loop stackoverflow SAS community.
